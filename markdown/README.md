@@ -3,7 +3,7 @@ Title: Tiya Gupta personal page
 */
 # Tiya Gupta
 
-![Tiya Gupta](C:\Users\tiagu\OneDrive\Documents\GitHub\Tiya03.github.io\img\tiya_pic.jpeg)
+![Tiya Gupta](https://github.com/Tiya03/Tiya03.github.io/blob/master/img/tiya_pic.jpeg?raw=true)
 
 I am <b>Tiya Gupta</b>. I hail from <b>Delhi</b> and I am currently pursuing <b>B.Tech from IIT Goa</b>.
 <br>I like to <i>study characters from series I watch</i> and write new stories from those characters.<br>
