@@ -42,6 +42,7 @@ I aspire to become a successful <b>software engineer</b> in future
         <li><em>NO102:</em> National Sports Organisation by <ins>Dr. Raja Mitra</ins></li>
         <li><em>EE101:</em> Introduction to Electrical Engineering by <ins>Dr. Sheron F.</ins></li>
     </ol>
+<b>Note:</b> No course other than CS101 and CS102 has webpage.
 
 ***
 ## Extracurricular
